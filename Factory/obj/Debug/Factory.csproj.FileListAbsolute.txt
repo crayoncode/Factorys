@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\Factory\Factory\bin\Debug\Factory.exe.config
+F:\visualstudio2012\Projects\Factory\Factory\bin\Debug\Factory.exe
+F:\visualstudio2012\Projects\Factory\Factory\bin\Debug\Factory.pdb
+F:\visualstudio2012\Projects\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\Factory\Factory\obj\Debug\Factory.exe
+F:\visualstudio2012\Projects\Factory\Factory\obj\Debug\Factory.pdb
